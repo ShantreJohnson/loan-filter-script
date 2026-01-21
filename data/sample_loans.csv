@@ -1,0 +1,6 @@
+ loan_id,income,debt,credit_score,loan_amount,applicant_name
+1001,8500,2300,742,325000,Test Applicant A
+1002,6200,1800,681,250000,Test Applicant B
+1003,5400,3100,598,210000,Test Applicant C
+1004,11200,1200,788,450000,Test Applicant D
+1005,4100,2800,565,180000,Test Applicant E
