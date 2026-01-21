@@ -13,13 +13,13 @@ This script will evolve as I progress through my Python, SQL, and ML training.
 
 ## 📁 Project Structure
 
-
-
+```
 loan-filter-script/
-├── data/ # CSV files, raw loan datasets
-├── notebooks/ # Jupyter notebooks used for development
-├── scripts/ # Python script files
-└── README.md # Project documentation
+├── data/         # CSV files, raw loan datasets
+├── notebooks/    # Jupyter notebooks used for development
+├── scripts/      # Python script files
+└── README.md     # Project documentation
+```
 
 
 ## 🚀 Goals for v1
